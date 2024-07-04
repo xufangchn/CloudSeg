@@ -29,7 +29,7 @@ pip install pretrainedmodels efficientnet_pytorch
 ```
 
 ## Get Started
-You can download the pretrained model ([TeacherNet.pth](https://www.tobeupdated) & [StudentNet.pth](https://www.tobeupdated)) and put it in './checkpoints'.
+You can download the pretrained model ([TeacherNet.pth](https://www.tobeupdated) & [StudentNet.pth](https://drive.google.com/file/d/1msTLO7JJY67uhOAs9fsRjwpL3ta3Eoki/view?usp=sharing)) and put it in './checkpoints'.
 
 Use the following command to test the network:
 ```
